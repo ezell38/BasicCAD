@@ -40,7 +40,7 @@ Making the tire for the caster in OnShape
 
 ## Picture 
 
-
+<img src="Images/Tire.png" alt="Fork" width="128" height="128">
 
 
 
