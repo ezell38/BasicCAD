@@ -32,3 +32,18 @@ This video by Mr. Sheilds really helped me figure out each step and says all the
 ## OnShape Document Link
 
 https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/8e08ff4192d3fd6323bb2c3b
+
+
+## Assignment
+
+Making the tire for the caster in OnShape
+
+## Picture 
+
+
+
+
+
+
+
+
