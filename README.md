@@ -42,7 +42,13 @@ Making the tire for the caster in OnShape
 
 <img src="Images/Tire.png" alt="Fork" width="128" height="128">
 
+## Reflection
 
+This video by Mr. Sheilds Helped me figure out how to make a aggled dimension. - https://www.youtube.com/watch?time_continue=263&v=ReEGioIYSus&feature=emb_title
+
+## OnShape Document Link
+
+https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/e823a4644a5a601187fcbe23
 
 
 
