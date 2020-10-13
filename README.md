@@ -59,7 +59,7 @@ Making the tire for the caster in OnShape
 
 ## Reflection
 
-This video by Mr. Sheilds Helped me figure out how to make a aggled dimension. - https://www.youtube.com/watch?time_continue=263&v=ReEGioIYSus&feature=emb_title
+This video by Mr. Sheilds Helped me figure out how to make a angled dimension. - https://www.youtube.com/watch?time_continue=263&v=ReEGioIYSus&feature=emb_title
 
 ## OnShape Document Link
 
@@ -71,4 +71,12 @@ Making the axle for the caster in OnShape
 
 ## Picture
 
+<img src="Images/Axle.png" alt="axle" width"128" height"128">
 
+## Reflection
+
+This video by Mr. Sheilds helped me make a extrude inwards - https://www.youtube.com/watch?v=2r7YqGuF1vY&t=11s
+
+## OnShape Document Link
+
+https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/304cdd347d28049af4db4ec8
