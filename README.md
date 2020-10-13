@@ -71,7 +71,7 @@ Making the axle for the caster in OnShape
 
 ## Picture
 
-<img src="Images/Axle.jpg" alt="Axle" width"128" height="128">
+<img src="Images/Axle.jpg" alt="Fork" width"128" height="128">
 
 ## Reflection
 
