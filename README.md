@@ -71,9 +71,15 @@ Making the wheel for the caster in Onshape
 
 ## Picture
 
+<img src="Images/Wheel.png" alt="wheel" width="128" height="128"
 
+## Reflection
 
+This was the most challenging part for me so far especially learning how to cut out the spokes. This video by Mr. Helmstetter helped a lot - https://www.youtube.com/watch?v=DbOjDNK8Nsk&feature=emb_title
 
+## Onshape Document Link
+
+https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/e823a4644a5a601187fcbe23
 
 ## Assignment
 
@@ -90,3 +96,8 @@ This video by Mr. Sheilds helped me make a extrude inwards - https://www.youtube
 ## OnShape Document Link
 
 https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/304cdd347d28049af4db4ec8
+
+
+
+
+
