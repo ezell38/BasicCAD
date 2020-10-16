@@ -29,7 +29,9 @@ The assignment was to create a mount in OnShape for the caster
 
 The mount was pretty easy to do after I figured out the dimensions 
 
-## https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/0b0244c6c6dd0f0b5da51ff2
+## OnShape Document Link 
+
+https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/0b0244c6c6dd0f0b5da51ff2
 
 
 ## Assignment
@@ -71,7 +73,7 @@ Making the wheel for the caster in Onshape
 
 ## Picture
 
-<img src="Images/Wheel.png" alt="wheel" width="128" height="128"
+<img src="Images/Wheel.png" alt="wheel" width="128" height="128">
 
 ## Reflection
 
