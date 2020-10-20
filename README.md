@@ -105,7 +105,7 @@ Making the bearing for the caster in OnShape by extruding the wheel 5mm
 
 ## Picture
 
-<img src="Images/Bearing.png" alt="Bearing" width"128" height"128"
+<img src="Images/Bearing.png" alt="Bearing" width"128" height"128">
 
 ## Reflection
 
