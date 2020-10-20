@@ -105,8 +105,12 @@ Making the bearing for the caster in OnShape by extruding the wheel 5mm
 
 ## Picture
 
+<img src="Images/Bearing.png" alt="Bearing" width"128" height"128"
 
+## Reflection
 
+This video by Mr. Sheilds helped me with the dimensions for the bearing - https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_title
 
+## OnShape Document Link
 
-
+https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/e823a4644a5a601187fcbe23
