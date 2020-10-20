@@ -99,6 +99,13 @@ This video by Mr. Sheilds helped me make a extrude inwards - https://www.youtube
 
 https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/304cdd347d28049af4db4ec8
 
+## Assignment
+
+Making the bearing for the caster in OnShape by extruding the wheel 5mm
+
+## Picture
+
+
 
 
 
