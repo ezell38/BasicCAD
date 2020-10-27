@@ -114,3 +114,22 @@ This video by Mr. Sheilds helped me with the dimensions for the bearing - https:
 ## OnShape Document Link
 
 https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/e823a4644a5a601187fcbe23
+
+
+## Assignment 
+
+The assignment was to make the Sub-assembly in ONShape by mating together the Wheel, Axle,Bearings, and Tire.
+
+## Picture
+
+<img src="Images/Sub-assembly.png" alt="Sub-assembly" width="128" height="128">
+
+## Reflection
+
+Mr. sheilds video really helped me figure out which mate was used for each part and how to mate them all together - https://www.youtube.com/watch?v=R4PDBd8H5h8&feature=emb_title
+
+## OnShape Link
+
+https://cvilleschools.onshape.com/documents/621acf9e005317a0795c04d8/w/3e997265343d4f794759420c/e/4c99ed68f177f70bdbb7b132
+
+
